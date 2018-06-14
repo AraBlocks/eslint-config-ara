@@ -4,22 +4,21 @@
   "description": "ESLint Config",
   "main": "index.js",
   "scripts": {
-    "preinstall": "echo \"narf brain\"",
     "test": ":"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AraBlocks/styleguide"
+    "url": "https://github.com/AraBlocks/eslint-config-ara"
   },
   "author": "",
   "license": "Unlicense",
   "bugs": {
-    "url": "https://github.com/AraBlocks/styleguide/issues"
+    "url": "https://github.com/AraBlocks/eslint-config-ara/issues"
   },
   "peerDependencies": {
     "eslint": ">= 4"
   },
-  "homepage": "https://github.com/AraBlocks/styleguide#readme",
+  "homepage": "https://github.com/AraBlocks/eslint-config-ara#readme",
   "dependencies": {
     "eslint-config-airbnb": "^16.0.0",
     "eslint-plugin-import": "^2.12.0"
