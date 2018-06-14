@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-ara",
+  "version": "1.0.0",
+  "description": "ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "echo \"narf brain\"",
+    "test": ":"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AraBlocks/styleguide"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/AraBlocks/styleguide/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "homepage": "https://github.com/AraBlocks/styleguide#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.0.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0"
+  }
+}
