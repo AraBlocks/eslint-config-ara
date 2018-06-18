@@ -19,6 +19,7 @@ module.exports = {
     "guard-for-in": "off",
     "no-underscore-dangle": "off",
     "yoda": "off",
-    "global-require": "warn"
+    "global-require": "warn",
+    "no-bitwise": "off"
   }
 }
