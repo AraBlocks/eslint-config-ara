@@ -18,6 +18,7 @@ module.exports = {
     "no-restricted-syntax": "off",
     "guard-for-in": "off",
     "no-underscore-dangle": "off",
-    "yoda": "off"
+    "yoda": "off",
+    "global-require": "warn"
   }
 }
