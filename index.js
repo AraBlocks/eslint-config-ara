@@ -20,7 +20,6 @@ module.exports = {
         "ignoreUrls": true
       }
     ],
-    "valid-jsdoc": "warn",
     camelcase: "warn",
     "no-param-reassign": "warn",
     "no-use-before-define": "off",
