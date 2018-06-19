@@ -6,7 +6,7 @@ module.exports = {
     "no-console": "warn",
     "no-magic-numbers": "off",
     "no-unused-vars": "error",
-    "comma-dangle": ["error", "always"],
+    "comma-dangle": [ "error", "always" ],
     "eol-last": "error",
     indent: [ "error", 2 ],
     "multiline-comment-style": "off",
