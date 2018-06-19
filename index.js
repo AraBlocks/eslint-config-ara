@@ -9,7 +9,7 @@ module.exports = {
     "comma-dangle": ["error", "always"],
     "eol-last": "error",
     indent: [ "error", 2 ],
-    "multiline-comment-style": [ "error", "starred-block" ],
+    "multiline-comment-style": "off",
     "no-inline-comments": "error",
     eqeqeq: "warn",
     "max-len": [
