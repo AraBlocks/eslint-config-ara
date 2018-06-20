@@ -37,6 +37,7 @@ module.exports = {
         ],
         "location": "anywhere"
       }
-    ]
+    ],
+    "no-void": "off"
   }
 }
