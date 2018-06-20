@@ -38,6 +38,7 @@ module.exports = {
         "location": "anywhere"
       }
     ],
-    "no-void": "off"
+    "no-void": "off",
+    "no-continue": "warn"
   }
 }
