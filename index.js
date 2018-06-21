@@ -26,7 +26,7 @@
     "no-restricted-syntax": "off",
     "guard-for-in": "off",
     "no-underscore-dangle": "off",
-    "array-bracket-spacing": [ "off", "always" ],
+    "array-bracket-spacing": [ "warn", "always" ],
     "yoda": [ "error", "always", { onlyEquality: true } ],
     "global-require": "warn",
     "no-warning-comments": [
