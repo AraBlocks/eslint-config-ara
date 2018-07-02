@@ -1,17 +1,17 @@
 module.exports = {
   extends: "airbnb/base",
   rules: {
-    semi: [ "error", "never" ],
+    "semi": [ "error", "never" ],
     "no-plusplus": "off",
     "no-console": "warn",
     "no-magic-numbers": "off",
     "no-unused-vars": "error",
     "comma-dangle": [ "error", "only-multiline" ],
     "eol-last": "error",
-    indent: [ "error", 2 ],
+    "indent": [ "error", 2 ],
     "multiline-comment-style": "off",
     "no-inline-comments": "error",
-    eqeqeq: "warn",
+    "eqeqeq": "warn",
     "max-len": [
       "warn",
       {
@@ -20,7 +20,7 @@ module.exports = {
         "ignoreUrls": true
       }
     ],
-    camelcase: "warn",
+    "camelcase": "warn",
     "no-param-reassign": "warn",
     "no-use-before-define": "off",
     "no-restricted-syntax": "off",
@@ -42,7 +42,7 @@ module.exports = {
     "no-void": "off",
     "no-continue": "warn",
     "no-multiple-empty-lines": [
-      'error', {
+      "error", {
         "max": 1,
         "maxEOF": 1,
         "maxBOF": 0
