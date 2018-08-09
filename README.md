@@ -3,8 +3,6 @@
 
 ESLint configuration for JavaScript based Ara projects and modules.
 
-For more information, checkout  and the [Ara Styleguide](https://github.com/AraBlocks/styleguide/blob/master/javascript.md).
-
 ## Status
 This project is in alpha development.
 
