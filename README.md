@@ -20,9 +20,9 @@ in `package.json`:
 ```
 
 ## Contributing
-- [Commit message format](/.github/COMMIT_FORMAT.md)
-- [Commit message examples](/.github/COMMIT_FORMAT_EXAMPLES.md)
-- [How to contribute](/.github/CONTRIBUTING.md)
+- [Commit message format](https://github.com/AraBlocks/docs/blob/master/.github/COMMIT_FORMAT.md)
+- [Commit message examples](https://github.com/AraBlocks/docs/blob/master/.github/COMMIT_FORMAT_EXAMPLES.md)
+- [How to contribute](https://github.com/AraBlocks/docs/blob/master/.github/CONTRIBUTING.md)
 
 Releases follow [Semantic Versioning](https://semver.org/)
 
