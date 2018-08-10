@@ -16,12 +16,7 @@ module.exports = {
       "warn",
       {
         "code": 80,
-        "comments": 100,
-        "ignoreUrls": true,
-        "ignoreStrings": true,
-        "ignoreTemplateLiterals": true,
-        // Ignore regexes
-        "ignorePattern": true
+        "comments": 100
       }
     ],
     "camelcase": "warn",
