@@ -23,7 +23,7 @@ module.exports = {
       }
     ],
     "camelcase": "warn",
-    "no-param-reassign": "warn",
+    "no-param-reassign": "off",
     "no-use-before-define": "off",
     "no-restricted-syntax": "off",
     "guard-for-in": "off",
