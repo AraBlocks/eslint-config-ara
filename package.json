@@ -16,14 +16,15 @@
     "url": "https://github.com/AraBlocks/eslint-config-ara/issues"
   },
   "peerDependencies": {
-    "eslint": ">= 4"
+    "eslint": "^7.23.0"
   },
   "homepage": "https://github.com/AraBlocks/eslint-config-ara#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^16.0.0",
+    "eslint-config-airbnb": "^18.2.1",
     "eslint-plugin-import": "^2.12.0"
   },
   "devDependencies": {
-    "eslint-config-airbnb-base": "^12.1.0"
+    "eslint": "7.23.0",
+    "eslint-config-airbnb-base": "^14.2.1"
   }
 }
